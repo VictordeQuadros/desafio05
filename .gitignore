@@ -1,0 +1,7 @@
+.settings/
+target/
+.classpath
+.project
+clientes.xml
+produtos.xml
+pedidos.xml
